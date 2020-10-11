@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hangman</name>
+    </assembly>
+    <members>
+        <member name="Hangman">
+            <summary>Testing XML
+            </summary>
+        </member>
+    </members>
+</doc>
